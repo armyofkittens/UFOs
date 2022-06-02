@@ -21,4 +21,6 @@
   <img src="https://github.com/armyofkittens/UFOs/blob/main/Resources/filter2.png" width="900"/>
 </p>
 
+## Summary
+Overall, the outcome of our code is a simple yet effective way to filter our data. One of the drawbacks to be improved upon in the future is the use of static javascript data, and not a living database. This means the data in data.js will constantly need to be maintained by the host. Other improvements would be to create a user input box to report a siting that can update the database. Additionally, there is no duration filter which would have been a nice to have so that all points of data can be filtered. 
 
