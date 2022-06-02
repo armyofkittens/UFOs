@@ -4,3 +4,21 @@
 
 ## Results
 ### Upon visiting the website, the user will be greeted to a landing page containing unfiltered data. 
+
+<p align="left">
+  <img src="https://github.com/armyofkittens/UFOs/blob/main/Resources/landing%20page.png" width="900"/>
+</p>
+
+### Users are able to filter using a single criteria 
+
+<p align="left">
+  <img src="https://github.com/armyofkittens/UFOs/blob/main/Resources/filter1.png" width="900"/>
+</p>
+
+### Or multiple criteria
+
+<p align="left">
+  <img src="https://github.com/armyofkittens/UFOs/blob/main/Resources/filter2.png" width="900"/>
+</p>
+
+
